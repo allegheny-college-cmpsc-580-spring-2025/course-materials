@@ -2,7 +2,20 @@
 
 ## Important Resources
 
+* [Office Hours schedule](https://chompe.rs/office-hours)
+* [Course Calendar](https://chompe.rs/404-schedule)
+
 ## Syllabus
+
+> I remember the first time in my life when I spent more than 10 hours on a problem and actually got the answer.
+> When you start out in life, when you start doing something that you don’t know, you think of a question and then
+> you answer it. First then you discover that oh, the Greeks already had done that. Then you learn a few more
+> things, and you ask some more questions, and you say oh yeah, this was done in the 17th century, the 18th
+> century, 19th century. Finally you get to something that, for the first time in your life, you discovered
+> something that, as far as you know, nobody had discovered before. Then you’re asking questions and you don’t
+> get anywhere with them. You have to go on to the next question. 
+>
+> Donald Knuth, "An Interview with Donald Knuth, 1974 ACM Turing Award Recipient
 
 ### Course information
 
