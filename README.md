@@ -77,14 +77,14 @@ This course relies on your regular use of:
 
 ### Evaluation
 
-This course relies on three (3) major mechanisms:
+This course relies a student-maintained `Project Journal` which is comprised of three parts:
 
 1. `Research Roadmap`
 2. `Presentation Portfolio`
 3. `Research Portfolio`
 
-Each of these are semester-long projects that have interim due dates to assess student progress. All of these constitute a holistic `Class Portfolio`,
-which takes the place of a formal final exam.
+Each of these are semester-long projects that have interim due dates to assess student progress. Each week, students are required to make substantive
+progress on _all_ parts of their `Project Journal`.
 
 #### Research Roadmap
 
@@ -101,4 +101,11 @@ Students are expected to update these roadmaps as they undertake or finish tasks
 
 #### Presentation Portfolio
 
-This course also gives students multiple opportunitites to develop their presetnation skills.
+This course also gives students multiple opportunitites to develop their presentation skills. This course contemplates weekly presentations given
+on Mondays. Each presentation is short demonstration of research or skills progress in developing and presenting an idea, increasing in complexity
+over the course of the semester. They, however, share one rule: presentations must be under `5` minutes in length (unless otherwise noted). 
+
+#### Research Portfolio
+
+As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
+and annotations about a wide variety of sources that motivate their project.
