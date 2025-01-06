@@ -16,6 +16,10 @@
 >
 > Donald Knuth, "An Interview with Donald Knuth, 1974 ACM Turing Award Recipient
 
+> Good Judgment depends mostly on experience and experience usually comes from poor judgment.
+>
+> Some guy at a Rotary Club meeting, Muncie, Indiana, the _Muncie Evening Press_, 1932
+
 ### Course information
 
 #### Meeting times
