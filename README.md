@@ -1,5 +1,7 @@
 # CMPSC 580: Junior Seminar
 
+![CMPSC 580 - Banner](https://github.com/user-attachments/assets/86983e50-7b29-49de-a715-81d200aefd08)
+
 ## Important Resources
 
 * [Office Hours schedule](https://chompe.rs/office-hours)
