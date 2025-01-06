@@ -85,7 +85,7 @@ This course relies a student-maintained `Project Journal` which is comprised of 
 3. `Research Portfolio`
 
 Each of these are semester-long projects that have interim due dates to assess student progress. Each week, students are required to make substantive
-progress on _all_ parts of their `Project Journal`. This 
+progress on _all_ parts of their `Project Journal`. The journal takes the form of a Quarto-powered web site to which students contribute weekly materials.
 
 ##### Research Roadmap
 
