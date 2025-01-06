@@ -77,6 +77,7 @@ This course relies on your regular use of:
 
 ### Evaluation
 
+#### Project Journal
 This course relies a student-maintained `Project Journal` which is comprised of three parts:
 
 1. `Research Roadmap`
@@ -84,9 +85,9 @@ This course relies a student-maintained `Project Journal` which is comprised of 
 3. `Research Portfolio`
 
 Each of these are semester-long projects that have interim due dates to assess student progress. Each week, students are required to make substantive
-progress on _all_ parts of their `Project Journal`.
+progress on _all_ parts of their `Project Journal`. This 
 
-#### Research Roadmap
+##### Research Roadmap
 
 Students in this course are required to keep a `Research Roadmap`, an account of progress achieved and anticipated for their chosen projects. This is
 a tool meant to demonstrate your overall plan at a glance. In this course, these roadmaps will take the form of a few documents:
@@ -99,13 +100,13 @@ a tool meant to demonstrate your overall plan at a glance. In this course, these
 
 Students are expected to update these roadmaps as they undertake or finish tasks involved in developing projects.
 
-#### Presentation Portfolio
+##### Presentation Portfolio
 
 This course also gives students multiple opportunitites to develop their presentation skills. This course contemplates weekly presentations given
 on Mondays. Each presentation is short demonstration of research or skills progress in developing and presenting an idea, increasing in complexity
 over the course of the semester. They, however, share one rule: presentations must be under `5` minutes in length (unless otherwise noted). 
 
-#### Research Portfolio
+##### Research Portfolio
 
 As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
 and annotations about a wide variety of sources that motivate their project.
