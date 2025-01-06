@@ -77,4 +77,28 @@ This course relies on your regular use of:
 
 ### Evaluation
 
-This course 
+This course relies on three (3) major mechanisms:
+
+1. `Research Roadmap`
+2. `Presentation Portfolio`
+3. `Research Portfolio`
+
+Each of these are semester-long projects that have interim due dates to assess student progress. All of these constitute a holistic `Class Portfolio`,
+which takes the place of a formal final exam.
+
+#### Research Roadmap
+
+Students in this course are required to keep a `Research Roadmap`, an account of progress achieved and anticipated for their chosen projects. This is
+a tool meant to demonstrate your overall plan at a glance. In this course, these roadmaps will take the form of a few documents:
+
+- a GitHub Project plan defining tasks and due dates, maintained by each student in response to course prompts
+- a visualization of the roadmap produced three (3) times throughout the semester
+- a description of the starting point and final goal of the research plan represented with:
+  - a topic summary
+  - a research question
+
+Students are expected to update these roadmaps as they undertake or finish tasks involved in developing projects.
+
+#### Presentation Portfolio
+
+This course also gives students multiple opportunitites to develop their presetnation skills.
