@@ -67,3 +67,14 @@ gain practical skills in technical writing, the presentation of technical concep
 - Demonstrate feasibility of a research idea through an application of existing computational resources.
 - Describe a research idea, its motivation, goals, and anticipated outcomes in writing.
 - Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
+
+#### Platforms
+
+This course relies on your regular use of:
+
+* [GitHub](https://github.com)
+* [Discord](https://discord.com)
+
+### Evaluation
+
+This course 
