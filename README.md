@@ -60,3 +60,10 @@ research questions, create a software prototype or develop scholarly artifacts t
 evidence for evaluating the outcome of their project. During a weekly laboratory session students use industry-grade technology to 
 gain practical skills in technical writing, the presentation of technical concepts, and the production of an artifact.
 
+### Course learning objectives
+
+- Illustrate a component of a viable and appropriate open-source research project idea.
+- Identify appropriate sources to motivate the research idea and determine research project objectives.
+- Demonstrate feasibility of a research idea through an application of existing computational resources.
+- Describe a research idea, its motivation, goals, and anticipated outcomes in writing.
+- Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
