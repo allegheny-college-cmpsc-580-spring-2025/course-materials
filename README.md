@@ -78,11 +78,12 @@ This course relies on your regular use of:
 ### Evaluation
 
 #### Project Journal
-This course relies a student-maintained `Project Journal` which is comprised of three parts:
+This course relies a student-maintained `Project Journal` which is comprised of four (4) parts:
 
 1. `Research Roadmap`
 2. `Presentation Portfolio`
 3. `Research Portfolio`
+4. `Process Portfolio`
 
 Each of these are semester-long projects that have interim due dates to assess student progress. Each week, students are required to make substantive
 progress on _all_ parts of their `Project Journal`. The journal takes the form of a Quarto-powered web site to which students contribute weekly materials.
@@ -98,15 +99,22 @@ a tool meant to demonstrate your overall plan at a glance. In this course, these
   - a topic summary
   - a research question
 
-Students are expected to update these roadmaps as they undertake or finish tasks involved in developing projects.
+Students are expected to update these roadmaps as they undertake or finish tasks involved in developing projects, and will receive guidance about
+which parts to finish at key times in the research process. Overall, this product should accurately reflect successes, failure, stops, starts, and
+the overall shape of the process that takes place during this course.
 
 ##### Presentation Portfolio
 
 This course also gives students multiple opportunitites to develop their presentation skills. This course contemplates weekly presentations given
-on Mondays. Each presentation is short demonstration of research or skills progress in developing and presenting an idea, increasing in complexity
-over the course of the semester. They, however, share one rule: presentations must be under `5` minutes in length (unless otherwise noted). 
+on Mondays. Each presentation is a short demonstration of research or skills progress in developing and presenting an idea, increasing in complexity
+over the course of the semester. They, however, share one rule: presentations must be under `5` minutes in length (unless otherwise noted). Students
+are assigned to a presentation schedule. Prompts will be given for these presentations and they will relate to the work undertaken in the prior 
+week. 
 
 ##### Research Portfolio
 
 As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
-and annotations about a wide variety of sources that motivate their project.
+and annotations about a wide variety of sources that motivate their project. Students are expected to have worked through at least `15` individual entries
+on research resources. Keep in mind that different kinds of tasks or problems may necessitate very different kinds of research, a topic that this course 
+covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains the details
+of precisely how this portion of the `Process Journal` will be evaluated.
