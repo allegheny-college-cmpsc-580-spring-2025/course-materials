@@ -28,7 +28,9 @@
 
 |Day(s) of Week            |Time          |Purpose     |Location                        |
 |--------------------------|--------------|------------|--------------------------------|
-|Monday, Wednesday, Friday |13:30 - 14:20 |Activities  |Alden 101                       |
+|Monday, Wednesday, Friday<sup>†</sup> |13:30 - 14:20 |Activities  |Alden 101                       |
+
+<sup>†</sup> Friday class is held in conjunction with the `CMPSC 610` course's Friday sessions.
 
 ### Contact
 
@@ -77,16 +79,16 @@ This course relies on your regular use of:
 
 ### Evaluation
 
-#### Project Journal
-This course relies a student-maintained `Project Journal` which is comprised of four (4) parts:
+#### Project Portfolio
+This course relies a student-maintained `Project Portfolio` which is comprised of four (4) parts:
 
 1. `Research Roadmap`
-2. `Presentation Portfolio`
-3. `Research Portfolio`
-4. `Process Portfolio`
+2. `Presentation Log`
+3. `Research Log`
+4. `Process Log`
 
 Each of these are semester-long projects that have interim due dates to assess student progress. Each week, students are required to make substantive
-progress on _all_ parts of their `Project Journal`. The journal takes the form of a Quarto-powered web site to which students contribute weekly materials.
+progress on _all_ parts of their `Project Portfolio`. The journal takes the form of a Quarto-powered web site to which students contribute weekly materials.
 
 ##### Research Roadmap
 
@@ -103,18 +105,23 @@ Students are expected to update these roadmaps as they undertake or finish tasks
 which parts to finish at key times in the research process. Overall, this product should accurately reflect successes, failure, stops, starts, and
 the overall shape of the process that takes place during this course.
 
-##### Presentation Portfolio
+##### Presentation Log
 
 This course also gives students multiple opportunitites to develop their presentation skills. This course contemplates weekly presentations given
 on Mondays. Each presentation is a short demonstration of research or skills progress in developing and presenting an idea, increasing in complexity
 over the course of the semester. They, however, share one rule: presentations must be under `5` minutes in length (unless otherwise noted). Students
 are assigned to a presentation schedule. Prompts will be given for these presentations and they will relate to the work undertaken in the prior 
-week. 
+week. See the [Course Contract](CODE_OF_CONDUCT.md) for evaluation details.
 
-##### Research Portfolio
+##### Research Log
 
 As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
 and annotations about a wide variety of sources that motivate their project. Students are expected to have worked through at least `15` individual entries
 on research resources. Keep in mind that different kinds of tasks or problems may necessitate very different kinds of research, a topic that this course 
-covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains the details
-of precisely how this portion of the `Process Journal` will be evaluated.
+covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains evaluation
+details.
+
+##### Process Log
+
+Independent of the required presentation and research schedules for the course, students will be assigned weekly posts that reflect on and describe their
+overall project process.
