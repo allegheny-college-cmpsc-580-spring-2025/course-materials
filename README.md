@@ -70,17 +70,27 @@ gain practical skills in technical writing, the presentation of technical concep
 - Describe a research idea, its motivation, goals, and anticipated outcomes in writing.
 - Present and communicate complex ideas in a variety of media through both informal discussions, peer reviews, and formal presentations.
 
-#### Platforms
+### Platforms
 
 This course relies on your regular use of:
 
 * [GitHub](https://github.com)
 * [Discord](https://discord.com)
 
+### Structure
+
+This course is structured in two units:
+
+1. Reproducing a published research project
+2. Defining your own research project
+
+These units split the semester roughly in half, using Spring Break as the demarcating line between units.
+
 ### Evaluation
 
 #### Project Portfolio
-This course relies a student-maintained `Project Portfolio` which is comprised of four (4) parts:
+
+This course relies a student-maintained `Project Portfolio` which is comprised of four (4) parts.
 
 1. `Research Roadmap`
 2. `Presentation Log`
@@ -124,4 +134,4 @@ details.
 ##### Process Log
 
 Independent of the required presentation and research schedules for the course, students will be assigned weekly posts that reflect on and describe their
-overall project process.
+overall work on a given project.
