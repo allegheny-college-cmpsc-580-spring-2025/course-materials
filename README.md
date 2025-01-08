@@ -134,4 +134,6 @@ details.
 ##### Process Log
 
 Independent of the required presentation and research schedules for the course, students will be assigned weekly posts that reflect on and describe their
-overall work on a given project.
+overall work on a given project and its relationship to developing sound research projects. Often, these posts will coincide with work done during joint
+sessions held with the students in the `610` course and will require reflection and synthesis of work completed on `580` and discussion with researchers
+in `610`. These posts are due on Mondays, as reflected by the [Course Calendar]().
