@@ -121,6 +121,7 @@ Students will complete this project independently.
   - any additional resources consulted in order to complete the project, including:
     - generative prompts
     - "how-to" guides
+  - inclusion of paths/processes that lead to dead-ends or failures
 
 ###### Discipline-specific project
 
@@ -136,17 +137,21 @@ Students will complete this project in a team assigned to you based on your chos
   - any additional resources consulted in order to complete the project, including:
     - generative prompts
     - "how-to" guides
-    - additional research necessary to understand concepts
+    - additional research necessary to understand concepts accounting for relationships between sources
+  - inclusion of paths/processes that lead to dead-ends or failures
 
 ###### Independent research project
 
 Students will complete this project independently <sup>†</sup>.
 
-
-
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
-  - a research question
+  - an original research question motivating the need to do the research
+- a visualization of the research process undertaken in the course including:
+  - a relationship diagram of sources cited, with links to annotation posts
+  - a process diagram of an experiment used to prove viability of research topic with an emphasis on reproducibility
+  - d
+  - inclusion of paths/processes that lead to dead-ends or failures
 
 <sup>†</sup> Students in the Computer and Information Science (CIS) department may attempt team or group Senior Projects.
 If you choose to pursue the final research project as a team, the expectations for this project reflect the level of complexity and
