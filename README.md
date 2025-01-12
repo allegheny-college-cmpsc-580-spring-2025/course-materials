@@ -134,7 +134,7 @@ Students will complete this project in a team assigned to you based on your chos
     - an articulation the original research question behind the experiment
     - an original research question not posed by the experiment which suggests a new direction of study
 - a visualization of the roadmap of steps taken to reproduce _one experiment_ in the assigned paper, including:
-  - steps to create the process
+  - the discrete steps creating a reproducible process that conducts the experiment
   - any additional resources consulted in order to complete the project, including:
     - generative prompts
     - "how-to" guides
@@ -150,8 +150,11 @@ Students will complete this project independently <sup>†</sup>.
   - an original research question motivating the need to do the research
 - a visualization of the research process undertaken in the course including:
   - a relationship diagram of sources cited, with links to annotation posts
-  - a process diagram of an experiment used to prove viability of research topic with an emphasis on reproducibility
-  - d
+  - any additional resources consulted in order to complete the project, including:
+    - generative prompts
+    - "how-to" guides
+  - a process/step diagram of an _original_, _reproducible_ experiment used to prove viability of research topic
+    - steps necessary to (re)create the process behind the experiment
   - inclusion of paths/processes that lead to dead-ends or failures
 
 <sup>†</sup> Students in the Computer and Information Science (CIS) department may attempt team or group Senior Projects.
