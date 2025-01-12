@@ -130,8 +130,8 @@ You will complete this project independently <sup>†</sup>.
 <sup>†</sup> It is possible for students in the Computer and Information Science (CIS) departments to attempt team or group Senior Projects.
 If you choose to pursue the final research project as a team, the expectations for this project will reflect the level of complexity and
 depth incumbent on projects with more resources. Student _do not_ need to be in the same degree program to form a Senior Project group (e.g.,
-a Data Science and Computer Science major can attempt a project together, et al.).
-
+a Data Science and Computer Science major can attempt a project together, et al.). If you choose to do this, be aware that you are indicating
+your interest in continuing this group through your `600` and `610` work.
 
 ##### Presentation Log
 
