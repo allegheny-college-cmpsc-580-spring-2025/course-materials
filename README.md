@@ -5,7 +5,7 @@
 ## Important Resources
 
 * [Office Hours schedule](https://chompe.rs/office-hours)
-* [Course Calendar](https://chompe.rs/404-schedule)
+* [Course Calendar](https://chompe.rs/580-schedule)
 
 ## Syllabus
 
@@ -174,17 +174,14 @@ week. See the [Course Contract](CODE_OF_CONDUCT.md) for evaluation details.
 ##### Research Log
 
 As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
-and annotations about a wide variety of sources that motivate their project. Students are expected to have worked through at least `15` individual entries
-on research resources. Keep in mind that different kinds of tasks or problems may necessitate very different kinds of research, a topic that this course 
-covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains evaluation
-details.
+and annotations about a wide variety of sources that motivate various course projects.Keep in mind that different kinds of tasks or problems may necessitate very different kinds of research, a topic that this course covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains evaluation details.
 
 ##### Process Log
 
 Independent of the required presentation and research schedules for the course, students will be assigned weekly posts that reflect on and describe their
 overall work on a given project and its relationship to developing sound research projects. Often, these posts will coincide with work done during joint
 sessions held with the students in the `610` course and will require reflection and synthesis of work completed on `580` and discussion with researchers
-in `610`. These posts are due on Mondays, as reflected by the [Course Calendar]().
+in `610`. These posts are due on Mondays, as reflected by the [Course Calendar](https://chompe.rs/580-schedule).
 
 ### Course preparation
 
