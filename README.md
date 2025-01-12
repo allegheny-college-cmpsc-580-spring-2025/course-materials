@@ -103,18 +103,34 @@ progress on _all_ parts of their `Project Portfolio`. The journal takes the form
 
 ##### Research Roadmap
 
-Students in this course are required to keep a `Research Roadmap`, an account of progress achieved and anticipated for their chosen projects. This is
-a tool meant to demonstrate your overall plan at a glance. In this course, these roadmaps will take the form of a few documents:
+Students in this course are required to keep a `Research Roadmap` for the various experiments we will do in this course. These are tools meant to demonstrate 
+your overall plans, attempts, and research connections at a glance. Students are expected to update these roadmaps as they undertake or finish tasks involved 
+in developing projects, and will receive guidance about which parts to finish at key times in the research process. Overall, this product should accurately reflect
+successes, failure, stops, starts, and the overall shape of the process that takes place during this course.
+
+In this course, these roadmaps will take a few forms:
+
+###### 1 Billion Loops project
+
+You will complete this project on your own.
 
 - a GitHub Project plan defining tasks and due dates, maintained by each student in response to course prompts
-- a visualization of the roadmap produced three (3) times throughout the semester
+- a visualization of the roadmap of steps taken to reproduce the experiment
+
+###### Discipline-specific project
+
+You will complete this project in a team assigned to you based on your chosen discipline (degree program).
+
+###### Independent research project
+
+You will complete this project on your own<sup>†</sup>.
+
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
   - a research question
 
-Students are expected to update these roadmaps as they undertake or finish tasks involved in developing projects, and will receive guidance about
-which parts to finish at key times in the research process. Overall, this product should accurately reflect successes, failure, stops, starts, and
-the overall shape of the process that takes place during this course.
+<sup>†</sup>
+
 
 ##### Presentation Log
 
