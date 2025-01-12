@@ -103,16 +103,14 @@ progress on _all_ parts of their `Project Portfolio`. The journal takes the form
 
 ##### Research Roadmap
 
-Students in this course are required to keep a `Research Roadmap` for the various experiments we will do in this course. These are tools meant to demonstrate 
+Students in this course are required to keep `Research Roadmap`s for the various experiments we will do in this course. These are tools meant to demonstrate 
 your overall plans, attempts, and research connections at a glance. Students are expected to update these roadmaps as they undertake or finish tasks involved 
 in developing projects, and will receive guidance about which parts to finish at key times in the research process. Overall, this product should accurately reflect
 successes, failure, stops, starts, and the overall shape of the process that takes place during this course.
 
-In this course, these roadmaps will take a few forms:
-
 ###### 1 Billion Loops project
 
-You will complete this project on your own.
+You will complete this project independently.
 
 - a GitHub Project plan defining tasks and due dates, maintained by each student in response to course prompts
 - a visualization of the roadmap of steps taken to reproduce the experiment
@@ -123,13 +121,16 @@ You will complete this project in a team assigned to you based on your chosen di
 
 ###### Independent research project
 
-You will complete this project on your own<sup>†</sup>.
+You will complete this project independently <sup>†</sup>.
 
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
   - a research question
 
-<sup>†</sup>
+<sup>†</sup> It is possible for students in the Computer and Information Science (CIS) departments to attempt team or group Senior Projects.
+If you choose to pursue the final research project as a team, the expectations for this project will reflect the level of complexity and
+depth incumbent on projects with more resources. Student _do not_ need to be in the same degree program to form a Senior Project group (e.g.,
+a Data Science and Computer Science major can attempt a project together, et al.).
 
 
 ##### Presentation Log
