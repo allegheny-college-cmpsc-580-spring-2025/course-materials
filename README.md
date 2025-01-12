@@ -93,7 +93,7 @@ These units split the semester roughly in half, using Spring Break as the demarc
 
 This course relies a student-maintained `Project Portfolio` which is comprised of four (4) parts.
 
-1. `Research Roadmap`
+1. `Research Roadmap`s
 2. `Presentation Log`
 3. `Research Log`
 4. `Process Log`
@@ -112,7 +112,7 @@ successes, failure, stops, starts, and the overall shape of the process that tak
 
 You will complete this project independently.
 
-- a GitHub Project plan defining tasks and due dates, maintained by each student in response to course prompts
+- a GitHub Project plan defining tasks and due dates
 - a visualization of the roadmap of steps taken to reproduce the experiment
 
 ###### Discipline-specific project
@@ -127,11 +127,11 @@ You will complete this project independently <sup>†</sup>.
   - a topic summary
   - a research question
 
-<sup>†</sup> It is possible for students in the Computer and Information Science (CIS) departments to attempt team or group Senior Projects.
-If you choose to pursue the final research project as a team, the expectations for this project will reflect the level of complexity and
+<sup>†</sup> Students in the Computer and Information Science (CIS) department may attempt team or group Senior Projects.
+If you choose to pursue the final research project as a team, the expectations for this project reflect the level of complexity and
 depth incumbent on projects with more resources. Student _do not_ need to be in the same degree program to form a Senior Project group (e.g.,
-a Data Science and Computer Science major can attempt a project together, et al.). If you choose to do this, be aware that you are indicating
-your interest in continuing this group through your `600` and `610` work.
+a Data Science and Computer Science major can attempt a project together, et al.). If you choose to complete a group project in this course,
+be aware that you are indicating your interest in continuing this group through your `600` and `610` work.
 
 ##### Presentation Log
 
