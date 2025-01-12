@@ -82,8 +82,8 @@ This course relies on your regular use of:
 
 This course is structured in two units:
 
-1. Reproducing a published research project
-2. Defining your own research project
+1. Reproducing published research projects
+2. Defining and testing your own research project
 
 These units split the semester roughly in half, using Spring Break as the demarcating line between units.
 
@@ -108,7 +108,8 @@ your overall plans, attempts, and research connections at a glance. Students are
 in developing projects, and will receive guidance about which parts to finish at key times in the research process. Overall, this product should accurately reflect
 successes, failure, stops, starts, and the overall shape of the process that takes place during this course.
 
-Each of these roadmaps must be completed in `FigJam` (Figma).
+Each of these roadmaps must be completed in `FigJam` (Figma). At the end of each project requiring a roadmap, students will post each roadmap as an image
+to their `Project Portfolio`.
 
 ###### 1 Billion Loops project
 
