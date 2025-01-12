@@ -108,20 +108,41 @@ your overall plans, attempts, and research connections at a glance. Students are
 in developing projects, and will receive guidance about which parts to finish at key times in the research process. Overall, this product should accurately reflect
 successes, failure, stops, starts, and the overall shape of the process that takes place during this course.
 
+Each of these roadmaps must be completed in `FigJam` (Figma).
+
 ###### 1 Billion Loops project
 
-You will complete this project independently.
+Students will complete this project independently.
 
-- a GitHub Project plan defining tasks and due dates
+- a description of the starting point and final goal of the research plan represented with:
+  - a topic summary
+  - an articulation the original research question behind the experiment
 - a visualization of the roadmap of steps taken to reproduce the experiment
+  - any additional resources consulted in order to complete the project, including:
+    - generative prompts
+    - "how-to" guides
 
 ###### Discipline-specific project
 
-You will complete this project in a team assigned to you based on your chosen discipline (degree program).
+Students will complete this project in a team assigned to you based on your chosen discipline (degree program).
+
+- a description of the starting point and final goal of the research plan represented with:
+  - a topic summary
+  - two research questions:
+    - an articulation the original research question behind the experiment
+    - an original research question not posed by the experiment which suggests a new direction of study
+- a visualization of the roadmap of steps taken to reproduce _one experiment_ in the assigned paper, including:
+  - steps to create the process
+  - any additional resources consulted in order to complete the project, including:
+    - generative prompts
+    - "how-to" guides
+    - additional research necessary to understand concepts
 
 ###### Independent research project
 
-You will complete this project independently <sup>†</sup>.
+Students will complete this project independently <sup>†</sup>.
+
+
 
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
