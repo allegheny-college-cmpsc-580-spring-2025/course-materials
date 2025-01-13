@@ -29,9 +29,10 @@ long-running, multi-step projects. These are evaluated using the following weigh
 
 |Element |Weight |
 |:-------|:------|
-|`Research Roadmap`s | 35% |
+|`Research Roadmap`s | 25% |
 |`Presentation Log`  | 25% |
-|`Research Log`      | 25% |
+|`Final presentation`| 20% |
+|`Research Log`      | 15% |
 |`Process Log`       | 15% |
 |                    |     |
 |Total               |100% |
@@ -68,7 +69,24 @@ leading to a score of `1.5`. All assessment will be accompanied by a short expla
 
 On at least a bi-weekly basis, students will give _maximum_ `5` minute presentations (unless otherwise specified). These will be scored
 by the use of an "`up`/`down`" class vote form. These forms will change to reflect presentation expectations which will be distributed on
-the Wednesday before a student's presentation to allow adequate time for preparation. Student 
+the Wednesday before a student's presentation to allow adequate time for preparation. Each presentation will feature at least `2` skills
+or primary focuses.
+
+Student and instructor feedback will be weighted according to the following matrix to arrive at a final grade:
+
+|Respondent |Weight |
+|:----------|:------|
+|Students   | `25%` |
+|Instructor | `75%` |
+
+Each student is expected to present `7` times throughout the semester. Each presentation should be uploaded to a students' `Project Portfolio`
+with a short review of presentation performance using the skills/focuses listed in the presentation assignment as the main substance for the post.
+
+###### `Final presentation`
+
+Each student will present one final (`8th`) time during the  course's designated final period. This presentation will be attended by department faculty
+and is subject to an `up`/`down` vote based on project feasibility and the faculty's assessment of quality of work completed. This presentation is
+essentially a "pass"/"fail" grade in which a majority of faculty must vote in favor of the project's viability.
 
 
 
