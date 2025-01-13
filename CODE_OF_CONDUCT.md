@@ -110,4 +110,8 @@ Each complete post garners `+1` point toward a maximum of `12` points.
 
 ##### `Process Log`
 
-e
+Each Friday, our class will meet alongside `CIS 610`. These meetings will feature activities for both sets of students which differ, but are related.
+Posts to a students' `Process Log` will be included and described in the [`CIS 600/610 Course Slide Deck`](https://docs.google.com/presentation/d/1QDbWdCCGryctqeVki0hznGVqXQBHrpKEbhyudKiXuHQ/edit?usp=sharing).
+This slide deck is updated weekly for Friday sessions. `Process Log` posts are due by the Monday course following the previous Friday session. These 
+posts are often related to activities with tangible outcomes and will require both the activity in question to be complete and a `150` word (minimum)
+post made in response to an accompanying prompt.
