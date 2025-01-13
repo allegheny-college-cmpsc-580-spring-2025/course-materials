@@ -106,3 +106,8 @@ which they are currently working. Students in a group _may not_ use the same art
   * briefly summaries of the article's main point(s)
   * describes of the relevance/value of the article to the project at-hand
 
+Each complete post garners `+1` point toward a maximum of `12` points.
+
+##### `Process Log`
+
+e
