@@ -175,7 +175,9 @@ week. See the [Course Contract](CODE_OF_CONDUCT.md) for evaluation details.
 ##### Research Log
 
 As a part of developing presentations and overall project completeness, students will keep an annotated research journal which posts links to, summaries of,
-and annotations about a wide variety of sources that motivate various course projects.Keep in mind that different kinds of tasks or problems may necessitate very different kinds of research, a topic that this course covers in discussions on what kinds of sources are considered authoritative. Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains evaluation details.
+and annotations about a wide variety of sources that motivate various course projects.Keep in mind that different kinds of tasks or problems may 
+necessitate very different kinds of research, a topic that this course covers in discussions on what kinds of sources are considered authoritative. 
+Keep in mind that the [Course Contract](CODE_OF_CONDUCT.md) contains evaluation details.
 
 ##### Process Log
 
@@ -183,6 +185,14 @@ Independent of the required presentation and research schedules for the course, 
 overall work on a given project and its relationship to developing sound research projects. Often, these posts will coincide with work done during joint
 sessions held with the students in the `610` course and will require reflection and synthesis of work completed on `580` and discussion with researchers
 in `610`. These posts are due on Mondays, as reflected by the [Course Calendar](https://chompe.rs/580-schedule).
+
+These process posts will follow similar guidelines to those issued to students in `610`:
+
+> Your [process log] is a public account of your research process. Each week, you will be given a prompt
+> and a related activity (see below for details on activities). For each week of the semester, you must write a
+> post of at least 250 words which responds to the prompt and includes elements of the related activity.
+
+These activities and posts will be assigned during Friday `610` collaboration sessions.
 
 ### Course preparation
 
