@@ -113,7 +113,7 @@ to their `Project Portfolio`.
 
 ###### 1 Billion Loops project
 
-Students will complete this project independently.
+Students will complete this project independently; each student will be given an assignment repository with guidelines for completing the work.
 
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
@@ -126,7 +126,8 @@ Students will complete this project independently.
 
 ###### Discipline-specific project
 
-Students will complete this project in a team assigned to you based on your chosen discipline (degree program).
+Students will complete this project in a team assigned to you based on your chosen discipline (degree program);
+each team will be given an assignment repository with guidelines for completing the work.
 
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
@@ -143,7 +144,7 @@ Students will complete this project in a team assigned to you based on your chos
 
 ###### Independent research project
 
-Students will complete this project independently <sup>†</sup>.
+Students will complete this project independently <sup>†</sup>; each student will be given an assignment repository with guidelines for completing the work.
 
 - a description of the starting point and final goal of the research plan represented with:
   - a topic summary
