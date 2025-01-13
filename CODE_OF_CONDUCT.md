@@ -97,8 +97,8 @@ essentially a "pass"/"fail" grade in which a majority of faculty must vote in fa
 Starting from `Week 2`, students will be required to write a short post annotating a single novel research article relevant to the course project on
 which they are currently working. Students in a group _may not_ use the same article, and must choose separate articles to annotate. Annotation posts:
 
-* must have the title of the article as the post title which
-  * features a correct citation included both in the post _and which_
+* must have the title of the article as post title which
+  * features a correctly-called/referred citation
   * is contained in the `references.bib` file using `ACM` format
 * must feature a `250` work annotation which:
   * describes how the researcher found the article
