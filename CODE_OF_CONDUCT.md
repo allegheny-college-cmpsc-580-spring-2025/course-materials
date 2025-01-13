@@ -100,7 +100,7 @@ which they are currently working. Students in a group _may not_ use the same art
 * must have the title of the article as post title which
   * features a correctly-called/referred citation
   * is contained in the `references.bib` file using `ACM` format
-* must feature a `250` work annotation which:
+* must feature a `250` word annotation which:
   * describes how the researcher found the article
   * establishes the authors' authority and credibility
   * briefly summaries of the article's main point(s)
