@@ -37,6 +37,8 @@ long-running, multi-step projects. These are evaluated using the following weigh
 |                    |     |
 |Total               |100% |
 
+_All posts must be tagged correctly in order to count toward their corresponding requirement._
+
 ##### `Research Roadmap`s
 
 Students are expected to complete `Research Roadmap`s via FigJam for each of the three major research projects
@@ -88,5 +90,12 @@ Each student will present one final (`8th`) time during the  course's designated
 and is subject to an `up`/`down` vote based on project feasibility and the faculty's assessment of quality of work completed. This presentation is
 essentially a "pass"/"fail" grade in which a majority of faculty must vote in favor of the project's viability.
 
+##### `Research Log`
 
+> Note: This requirement will not start until `Week 2`, and will continue weekly throughout the semester from that point.
+
+Starting from `Week 2`, students will be required to write a short post annotating a single novel research article relevant to the course project on
+which they are currently working. Students in a group _may not_ use the same article, and must choose separate articles to annotate. Annotation posts:
+
+* must have the title of the article 
 
